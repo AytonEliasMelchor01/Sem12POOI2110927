@@ -19,7 +19,7 @@ public class Hora {
 
 
     public void visualizarHora() {
-        System.out.printf("%02d:%02d:%02d\n", horas, minutos, segundos);
+        System.out.printf(horas+":"+minutos+":"+segundos+"\n");
     }
 
 
